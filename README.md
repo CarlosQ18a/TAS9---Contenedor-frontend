@@ -124,6 +124,8 @@ En caso de errores, se revisaron:
 - Frontend React desplegado exitosamente en Docker, accesible en http://localhost:3000.
 - Comunicación fluida entre servicios.
 - Docker simplificó el despliegue del frontend y su ejecución en otros equipos.
+- 
+<img src = "https://github.com/CarlosQ18a/TAS9---Contenedor-frontend/blob/main/Captura%20de%20pantalla%202025-06-07%20011333.png" width = "400">
 
 ## 9. Bibliografía
 
